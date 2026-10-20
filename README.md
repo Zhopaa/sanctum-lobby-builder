@@ -6,7 +6,7 @@
 > 🔒 Source code is private. This repo contains a showcase only.
 
 ### Скриншоты с тестового сервера / Test server screenshots
-![Sanctuary overview](media/01_sanctuary_overview.jpg)
+![Sanctuary overview](media/01_sanctuary_overview_v2.jpg)
 
 _Результат `/sanctum build` на Paper 26.1.2: 63 000 блоков / result of `/sanctum build` on Paper 26.1.2: 63,000 blocks._
 
